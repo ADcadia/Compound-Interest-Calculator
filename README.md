@@ -1,2 +1,2 @@
 # py-calculators
-Calculators/converters created using Python.
+Calculators and converters created using Python.
