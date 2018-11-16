@@ -1,2 +1,2 @@
-# Py-Calculators
-Calculators created with Python.
+# py-calculators
+Calculators created using Python.
